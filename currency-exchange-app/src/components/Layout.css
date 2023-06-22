@@ -1,0 +1,22 @@
+.DefaultText{
+    color: #404040;
+}
+.TabelHeaderText{
+    color:#8D8D8D
+}
+.colorWarn{
+    color: #C70D38;
+}
+.colorAccent{
+    color: #94C720;
+}
+.colorPrimary{
+    color: #009688;
+}
+.removePadding{
+    padding-left: "0";
+    padding-top: "0";
+}
+.paddingTop{
+    padding-top: 10px;
+}
