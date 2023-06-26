@@ -112,20 +112,6 @@ export default function Layout() {
                   </TabPanel>
               </Grid>
             </Grid>
-          {/* <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
-            <Grid  spacing={3} className="removePadding">
-              <Grid item xs={12}>
-                <Paper sx={{ p: 2, display: "flex", flexDirection: "column" }}>
-                  <TabPanel value={value} index={0}>
-                   <CurrencyConverter />
-                  </TabPanel>
-                  <TabPanel value={value} index={1}>
-                    <ConversionHistory />
-                  </TabPanel>
-                </Paper>
-              </Grid>
-            </Grid>
-          </Container> */}
         </Box>
       </Box>
     </ThemeProvider>
